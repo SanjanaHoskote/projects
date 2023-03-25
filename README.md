@@ -1,6 +1,6 @@
 
 
-#The codes that have been attached here are with respect to the following projects:
-1.FPGA-BASED LINE FOLLOWER ROBOT
-2.SELF-SUSTAINABLE ENERGY GENERATION FROM FOOTSTEPS
+The codes that have been attached here are with respect to the following projects:<br>
+1.FPGA-BASED LINE FOLLOWER ROBOT<br>
+2.SELF-SUSTAINABLE ENERGY GENERATION FROM FOOTSTEPS<br>
 3.AUTOMATED FORKLIFT SYSTEM FOR EFFICIENT OBJECT TRANSPORT IN INDUSTRY
